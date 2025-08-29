@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ads.techbaho.com/sitemap.xml
+#DaumWebMasterTool:6cc5d8720c76b855367b8347ef611c6bc7e950d762411965c39c5fc69cbe9c0d:hAanBjeKjPXisHraBtijDw==
